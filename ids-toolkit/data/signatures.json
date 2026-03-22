@@ -1,0 +1,14 @@
+{
+    "malicious_ips": [
+        "198.51.100.23",
+        "203.0.113.88"
+    ],
+    "suspicious_ports": [
+        31337,
+        4444
+    ],
+    "payload_hashes": [
+        "eicar_md5_here",
+        "44d88612fea8a8f36de82e1278abb02f"
+    ]
+}
